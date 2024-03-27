@@ -4,7 +4,7 @@ Sou o Dionatan Ribeiro, um entusiasta e estudante dedicado ao aprendizado e dese
 - 👨‍🎓 Sou um estudante focado no aprendizado e aprimoramento de habilidades em Flutter.
 - 🌱 Atualmente, estou dedicando meu tempo ao estudo e prática de Flutter.
 
-Possuo experiência no desenvolvimento de aplicativos móveis com Flutter, incluindo o design de interfaces responsivas. Além disso, tenho conhecimentos em integração de APIs e serviços web, utilização do Firebase para autenticação e armazenamento de dados, gerenciamento de estado com MobX e familiaridade com testes em Flutter.
+Possuo experiência no desenvolvimento de aplicativos móveis com Flutter, incluindo o design de interfaces responsivas. Além disso, tenho conhecimentos em integração de APIs e serviços web, utilização do Firebase para autenticação e armazenamento de dados, gerenciamento de estado com MobX e GetX, injeção de dependência com Get e Flutter Modular, e familiaridade com testes em Flutter.
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
